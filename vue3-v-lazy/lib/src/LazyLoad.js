@@ -1,7 +1,7 @@
 /*
  * @Author: qin
  * @Date: 2022-04-18 00:15:29
- * @LastEditTime: 2022-04-18 01:58:01
+ * @LastEditTime: 2022-04-18 02:16:25
  * @FilePath: \directive\vue3-v-lazy\lib\src\lazyload.js
  *  -> The best way to explain it is to do it
  */
@@ -44,7 +44,7 @@ function LazyLoad(app) {
     }
     handleScroll() {
       let isVisible = false;
-      console.log('qqq');
+
       this.lazyImgPool.forEach(item => {
         if (!item.loaded) {
           isVisible = item.checkIsVisible();
