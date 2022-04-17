@@ -1,19 +1,13 @@
 # vue3-v-lazy
 
-## Project setup
+## 首先进入 vue3-v-lazy 文件夹中, 分别在当前文件夹和 server 文件夹执行
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 在两个文件夹分别执行
+
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
