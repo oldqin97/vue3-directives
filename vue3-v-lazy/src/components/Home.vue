@@ -1,7 +1,7 @@
 <!--
  * @Author: qin
  * @Date: 2022-04-18 01:48:53
- * @LastEditTime: 2022-04-18 01:58:22
+ * @LastEditTime: 2022-04-19 23:38:05
  * @FilePath: \directive\vue3-v-lazy\src\components\Home.vue
  *  -> The best way to explain it is to do it
 -->
@@ -19,8 +19,4 @@ export default defineComponent({
 });
 </script>
 
-<style lang="scss" scoped>
-.box {
-  height: 10000px;
-}
-</style>
+<style lang="scss" scoped></style>
